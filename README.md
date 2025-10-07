@@ -7,7 +7,7 @@
 
 
 ## Download
-<a href="https://github.com/Sadc2h4/Morinohito-Editor/releases/tag/v1.4a">
+<a href="https://github.com/Sadc2h4/Museum-of-Memories/releases/tag/V1.2.1a">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
