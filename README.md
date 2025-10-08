@@ -50,7 +50,10 @@ Museum of Memoriesは，ピクトスクエアの会場の雰囲気を再現し�
 
 6. 詳しい操作方法や機能は下記の解説動画をご確認ください．
 
-[![解説動画](https://github.com/user-attachments/assets/600f04b8-ef7e-445d-ad80-d25a9d6ffcd1)](https://youtu.be/59DmvnsW5fM)
+[![解説動画](https://github.com/Sadc2h4/Museum-of-Memories/blob/main/Sample_image/StartGuide_samune.png)](https://youtu.be/59DmvnsW5fM)  
+
+[![サービス紹介動画](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png)](https://youtu.be/5aKI900iGVo?t=1336)
+
 
 
 ## 注意点
