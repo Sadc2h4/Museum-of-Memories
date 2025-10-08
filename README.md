@@ -22,7 +22,7 @@
     height="48"
   />
 </a>
- Pixiv Booth
+ >> Pixiv Booth
 <br>
 
 ## 概要
@@ -52,16 +52,13 @@ Museum of Memoriesは，ピクトスクエアの会場の雰囲気を再現し�
 
 [![解説動画](https://github.com/Sadc2h4/Museum-of-Memories/blob/main/Sample_image/StartGuide_samune.png)](https://youtu.be/59DmvnsW5fM)  
 
-[![サービス紹介動画](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png)](https://youtu.be/5aKI900iGVo?t=1336)
-
-
 
 ## 注意点
 1. 手作りのアプリケーション（EXEファイル）のため初回起動時にWindows警告が表示されて止められてしまうことがあります．  
 　 その場合は下記のURLのページを参考にアプリケーションの実行を許可してください．  
 　 一度許可すると以降は通常通り起動することが可能になります．  
 
-　 https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=0209-8188
+   ###  [「WindowsによってPCが保護されました」と表示されます](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=0209-8188)
 　
 
 2. このアプリケーションの推奨動作環境はWindows10以降のOSとなります．  
